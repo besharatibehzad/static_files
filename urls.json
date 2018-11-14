@@ -1,0 +1,10 @@
+{
+"urls":[
+{"id":1,"title":"Open Street Map","part1":"source","part2":"OSM"}
+{"id":2,"title":"Google Map","url":"https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}"}
+{"id":3,"title":"Google Satelite","url":"http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}"}
+{"id":4,"title":"Google Satellite Hybrid","url":"https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}"}
+{"id":5,"title":"Google Train","url":"https://mt1.google.com/vt/lyrs=t&x={x}&y={y}&z={z}"}
+{"id":6,"title":"Google Roads","url":"https://mt1.google.com/vt/lyrs=h&x={x}&y={y}&z={z}"}
+]
+}
